@@ -25,3 +25,9 @@ Data Handling: Parse and process received messages appropriately.
 UI Updates: Update the user interface based on the data received.
 Notifications: Use push notifications for important alerts.
 Remote Commands: Allow users to send commands back to the Raspberry Pi.
+
+MILESTONES:
+creating a module for remote access
+app development
+creating a home automation system
+acheiving the remote access
