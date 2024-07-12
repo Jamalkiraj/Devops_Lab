@@ -1,0 +1,1 @@
+PROJECT: Remote access to edge devices using rabbitmq 
